@@ -1,0 +1,15 @@
+dependencies:
+- name: esphome
+  repository: https://k8s-at-home.com/charts/
+  version: ~1.0.0
+- name: postgresql
+  repository: https://charts.bitnami.com/bitnami
+  version: 9.1.2
+- name: mariadb
+  repository: https://charts.bitnami.com/bitnami
+  version: 7.7.1
+- name: influxdb
+  repository: https://charts.bitnami.com/bitnami
+  version: 0.6.7
+digest: sha256:77305bf24459c2ef9ce81ab3b8055ffdc4b16f7437f64d9cb5625dec4d4097be
+generated: "2020-09-29T19:46:22.160502488Z"
